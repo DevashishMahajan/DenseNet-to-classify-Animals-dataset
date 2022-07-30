@@ -1,5 +1,5 @@
 # DenseNet-to-classify-Animals-dataset
-Using Convolutional Neural Network to build model for classification of "Animals" dataset
+# Using Convolutional Neural Network to build model for classification of "Animals" dataset
 
 Kaggle API to download dataset:
 kaggle datasets download -d devashishmahajan/animalsbutterflycowelephantsheepsquirrel
@@ -18,15 +18,15 @@ We had used transfer learning to build a CNN. The task is to transfer the learni
 
 Various techniques used to improve model performance:
 
-# kernel initializers = GlorotUniform
+## kernel initializers = GlorotUniform
 
-# Batch Normalization
+## Batch Normalization
 
-# Dropout
+## Dropout
 
-# Reduce LR On Plateau
+## Reduce LR On Plateau
 
-# Model acheives 93% training and 78% validation accuaracy.
+## Model acheives 93% training and 78% validation accuaracy.
 
 
 
