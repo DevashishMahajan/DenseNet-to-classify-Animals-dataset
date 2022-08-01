@@ -18,13 +18,13 @@ We had used transfer learning to build a CNN. The task is to transfer the learni
 
 Various techniques used to improve model performance:
 
-## kernel initializers = GlorotUniform
+## 1. kernel initializers = GlorotUniform
 
-## Batch Normalization
+## 2. Batch Normalization
 
-## Dropout
+## 3. Dropout
 
-## Reduce LR On Plateau
+## 4. Reduce LR On Plateau
 
 ## Model acheives 93% training and 78% validation accuaracy.
 
