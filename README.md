@@ -7,7 +7,7 @@ kaggle datasets download -d devashishmahajan/animalsbutterflycowelephantsheepsqu
 Dataset:
 https://www.kaggle.com/datasets/devashishmahajan/animalsbutterflycowelephantsheepsquirrel/download?datasetVersionNumber=1
 
-# *Dataset contains images of Butterfly, Cow, Elephant, sheep, Squirrel.*
+## *Dataset contains images of Butterfly, Cow, Elephant, sheep, Squirrel.*
 
 
 The animals dataset consists of images of animals with 5 possible class labels. The animals dataset consists of examples which are labeled images of animals. Each example contains a JPEG animals image and the class label: what type of animals it is.
